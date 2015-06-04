@@ -1,0 +1,5 @@
+name = Ajax Reader
+description = An example of an AJAX test.
+package = Epicodus Examples
+core = 7.x
+files[] = ajax_reader.module
